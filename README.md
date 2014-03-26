@@ -1,1 +1,3 @@
-ECHO is on.
+Utils JS
+
+Sample npm assignment
